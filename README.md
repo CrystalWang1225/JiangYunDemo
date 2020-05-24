@@ -1,6 +1,6 @@
 # JiangYunDemo
 
-A program that handles HTTP GET requests, takes in parameters in URL using Django, and then returns it in uppercase in JSON format
+A program that handles HTTP GET requests, takes in parameters in URL using Django, and then returns it in uppercase in JSON format. The project's code and the app itself are located inside of the src folder to make it organized
 
 ### Prerequisites
 
