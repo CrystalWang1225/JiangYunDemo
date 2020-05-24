@@ -1,0 +1,317 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"entertainment",
+				"entertainment_words"
+			],
+			[
+				"en",
+				"entertainment_words"
+			],
+			[
+				"pol",
+				"pol_dict"
+			],
+			[
+				"tech",
+				"tech_words"
+			],
+			[
+				"bus",
+				"business_dict"
+			],
+			[
+				"busine",
+				"business"
+			],
+			[
+				"idf",
+				"idf_value"
+			],
+			[
+				"tf",
+				"tf_value"
+			],
+			[
+				"wo",
+				"word"
+			],
+			[
+				"te",
+				"tech_dict"
+			],
+			[
+				"buss",
+				"business_dict"
+			],
+			[
+				"bu",
+				"business_dict"
+			],
+			[
+				"to",
+				"total_words"
+			],
+			[
+				"pa",
+				"path"
+			],
+			[
+				"fi",
+				"file"
+			],
+			[
+				"p",
+				"print"
+			],
+			[
+				"business_o",
+				"business_doc"
+			],
+			[
+				"business_",
+				"business_doc"
+			],
+			[
+				"w",
+				"words"
+			],
+			[
+				"in",
+				"inputfile"
+			],
+			[
+				"fiel",
+				"filename"
+			],
+			[
+				"f",
+				"filename"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"th",
+				"thead\tTag"
+			],
+			[
+				"ti",
+				"title\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/crystalwang/Desktop/demo",
+		"/Users/crystalwang/Desktop/demo/src",
+		"/Users/crystalwang/Desktop/demo/src/demo"
+	],
+	"file_history":
+	[
+		"/Users/crystalwang/Desktop/src513/Friend.js",
+		"/Users/crystalwang/Desktop/testsystem1_ece366_front/src/logout.js",
+		"/Users/crystalwang/Desktop/Archive512/src/Twitter.js",
+		"/Users/crystalwang/Desktop/src/login.js",
+		"/Users/crystalwang/Desktop/abcdd 2/src/main/java/edu/cooper/ee/ece366/symstagram/Main.java",
+		"/Users/crystalwang/Desktop/abcdd 2/src/main/java/edu/cooper/ee/ece366/symstagram/handler/HandlerFullSystemImpl.java",
+		"/Users/crystalwang/Downloads/HandlerFullSystemImpl.java",
+		"/Users/crystalwang/Downloads/profile.css",
+		"/Users/crystalwang/Downloads/Profile.js",
+		"/Users/crystalwang/Desktop/Archive 2/src/login.js",
+		"/Users/crystalwang/Downloads/Handler.java",
+		"/Users/crystalwang/Desktop/abcdd/src/main/java/edu/cooper/ee/ece366/symstagram/Service.java",
+		"/Users/crystalwang/Desktop/abcdd/src/main/java/edu/cooper/ee/ece366/symstagram/Handler.java",
+		"/Users/crystalwang/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/9a75f208a621af2ddc2aebd0c6f156b8/Message/MessageTemp/1904ed41796af49d26a642f90a14aeb7/File/BHou_Thingy.java",
+		"/Users/crystalwang/Downloads/testsystem1_ece366 2/src/main/java/edu/cooper/ee/ece366/symstagram/Service.java",
+		"/Users/crystalwang/Downloads/testsystem1_ece366 2/src/main/java/edu/cooper/ee/ece366/symstagram/Handler.java",
+		"/Users/crystalwang/Downloads/testsystem1_ece366 2/pom.xml",
+		"/Users/crystalwang/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/9a75f208a621af2ddc2aebd0c6f156b8/Message/MessageTemp/1904ed41796af49d26a642f90a14aeb7/File/Activity_20_02_Bowen/DECK.pde",
+		"/Users/crystalwang/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/9a75f208a621af2ddc2aebd0c6f156b8/Message/MessageTemp/1904ed41796af49d26a642f90a14aeb7/File/Activity_20_02_Bowen/CARD.pde",
+		"/Users/crystalwang/Desktop/testsystem1_ece366 2/src/main/java/edu/cooper/ee/ece366/symstagram/Main.java",
+		"/Users/crystalwang/Desktop/testsystem1_ece366 2/src/main/java/edu/cooper/ee/ece366/symstagram/Handler.java",
+		"/Users/crystalwang/Desktop/testsystem1_ece366 2/src/main/java/edu/cooper/ee/ece366/symstagram/Service.java",
+		"/Users/crystalwang/Desktop/Project Proposal.tex",
+		"/Users/crystalwang/Desktop/ip_packet_decoder/decoder.cpp",
+		"/Users/crystalwang/Desktop/usermanager.java",
+		"/Users/crystalwang/Desktop/example/spark-example/src/main/java/edu/cooper/ee/ece366/groceries/Main.java",
+		"/Users/crystalwang/Desktop/example/spark-example/src/main/java/edu/cooper/ee/ece366/groceries/Service.java",
+		"/Users/crystalwang/Desktop/example/spark-example/src/main/java/edu/cooper/ee/ece366/groceries/Handler.java",
+		"/Users/crystalwang/Desktop/example/spark-example/src/main/java/edu/cooper/ee/ece366/groceries/util/JsonTransformer.java",
+		"/Users/crystalwang/Desktop/example/spark-example/src/main/java/edu/cooper/ee/ece366/groceries/store/GroceryStoreImpl.java",
+		"/Users/crystalwang/Desktop/example/spark-example/src/main/java/edu/cooper/ee/ece366/groceries/store/GroceryStore.java",
+		"/Users/crystalwang/Desktop/example/spark-example/src/main/java/edu/cooper/ee/ece366/groceries/store/CartStoreImpl.java",
+		"/Users/crystalwang/Desktop/example/spark-example/src/main/java/edu/cooper/ee/ece366/groceries/store/CartStore.java",
+		"/Users/crystalwang/Desktop/example/spark-example/src/main/java/edu/cooper/ee/ece366/groceries/model/Cart.java",
+		"/Users/crystalwang/Desktop/example/spark-example/src/main/java/edu/cooper/ee/ece366/groceries/model/Item.java",
+		"/Users/crystalwang/Desktop/example/spark-example/src/main/java/edu/cooper/ee/ece366/groceries/model/User.java",
+		"/Users/crystalwang/Desktop/LastName_lab_report_1.tex",
+		"/Users/crystalwang/Desktop/test2/test2/main.c",
+		"/Applications/MAMP/Library/lib/perl5/5.24.0/pods/perltoc.pod",
+		"/Users/crystalwang/Library/Mobile Documents/com~apple~CloudDocs/.Trash/SUMMERSTEM-Crystal_files/webcomponents-lite.min.js",
+		"/Users/crystalwang/Desktop/html/blog.html",
+		"/Users/crystalwang/Desktop/html/index.html",
+		"/Users/crystalwang/Desktop/index"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "demo.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Desktop/test2/test2/main.c"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 239.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
