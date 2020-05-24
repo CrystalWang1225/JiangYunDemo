@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="67cedf75-ddae-481e-b9d7-bbde804c8046" name="Default Changelist" comment="" />
+    <list default="true" id="67cedf75-ddae-481e-b9d7-bbde804c8046" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,6 +13,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1cM7lm1r8VYD7i2AN41WQ3TqUHT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -32,7 +35,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1590326761590</updated>
-      <workItem from="1590326764165" duration="320000" />
+      <workItem from="1590326764165" duration="1295000" />
     </task>
     <servers />
   </component>
@@ -40,18 +43,26 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="877" y="274" key="Github.ShareDialog" timestamp="1590327254711">
+    <state x="877" y="274" key="Github.ShareDialog" timestamp="1590327534587">
       <screen x="0" y="23" width="1440" height="826" />
     </state>
-    <state x="877" y="274" key="Github.ShareDialog/0.23.1440.826@0.23.1440.826" timestamp="1590327254711" />
+    <state x="877" y="274" key="Github.ShareDialog/0.23.1440.826@0.23.1440.826" timestamp="1590327534587" />
+    <state x="700" y="134" key="Github.UntrackedFilesDialog" timestamp="1590327553089">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="700" y="134" key="Github.UntrackedFilesDialog/0.23.1440.826@0.23.1440.826" timestamp="1590327553089" />
     <state x="229" y="59" key="SettingsEditor" timestamp="1590326792021">
       <screen x="0" y="23" width="1440" height="826" />
     </state>
     <state x="229" y="59" key="SettingsEditor/0.23.1440.826@0.23.1440.826" timestamp="1590326792021" />
-    <state x="320" y="160" key="Vcs.Push.Dialog.v2" timestamp="1590327112721">
+    <state x="320" y="160" key="Vcs.Push.Dialog.v2" timestamp="1590327441274">
       <screen x="0" y="23" width="1440" height="826" />
     </state>
-    <state x="320" y="160" key="Vcs.Push.Dialog.v2/0.23.1440.826@0.23.1440.826" timestamp="1590327112721" />
+    <state x="320" y="160" key="Vcs.Push.Dialog.v2/0.23.1440.826@0.23.1440.826" timestamp="1590327441274" />
+    <state x="399" y="253" key="com.intellij.ide.util.TipDialog" timestamp="1590355142868">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="399" y="253" key="com.intellij.ide.util.TipDialog/0.23.1440.826@0.23.1440.826" timestamp="1590355142868" />
     <state x="504" y="219" key="git4idea.merge.GitMergeDialog" timestamp="1590327072596">
       <screen x="0" y="23" width="1440" height="826" />
     </state>

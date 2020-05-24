@@ -13,3 +13,4 @@ def api(request):
 		'info': info.upper()
 	}
 	return JsonResponse(data)
+	
