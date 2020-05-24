@@ -20,6 +20,6 @@ from my_api import views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('api/$', views.api, name= 'urlname'),
-   # path('api/', views.api)
+    #path('api/$', views.api, name= 'urlname'),
+     path('api/', views.api)
 ]
